@@ -1,2 +1,2 @@
 # site43
-<h1>If you are seeing this message something has gone horribly wrong</h1>
+This site is for a web design class, based on a restraunt that does not exist
